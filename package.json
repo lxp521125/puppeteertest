@@ -1,0 +1,22 @@
+{
+  "name": "puppeteertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxp521125/puppeteertest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxp521125/puppeteertest/issues"
+  },
+  "homepage": "https://github.com/lxp521125/puppeteertest#readme",
+  "dependencies": {
+    "puppeteer": "^0.9.0"
+  }
+}
